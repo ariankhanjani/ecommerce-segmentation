@@ -22,7 +22,7 @@ Customer-Seller-Segmentation/
 │   ├── Customer_RFM_Segmentation.ipynb
 │   └── Seller_Segmentation.ipynb
 │
-├── images/
+├── assets/
 │   ├── rfm_segments.png
 │   ├── rfm_treemap.png
 │   ├── seller_clusters.png
